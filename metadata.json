@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator & Penukar Tradisional",
+  "description": "Kalkulator moden dengan penukar unit tradisional Malaysia seperti kati, pikul, relung, cupak, gantang, mayam emas, zakat fitrah, dan kiriman kampung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
